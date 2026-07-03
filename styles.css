@@ -394,6 +394,10 @@ body {
   gap: 0.75rem;
 }
 
+.vault-modal-actions .btn {
+  flex: 1;
+}
+
 .icon-picker {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
